@@ -1,0 +1,391 @@
+!SESSION 2018-06-21 21:35:50.500 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2018-06-21 21:36:00.810
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2018-06-21 21:36:00.825
+!MESSAGE OS info: Windows 7, 6.1, x86
+
+!ENTRY TrueSTUDIO 1 0 2018-06-21 21:36:01.576
+!MESSAGE Target: STM32, Version: 9.0.1, Build date: 20180420-1214, Installation dir: /C:/Program Files (x86)/Atollic/TrueSTUDIO for STM32 9.0.1/ide/
+
+!ENTRY TrueSTUDIO 1 0 2018-06-21 21:36:01.576
+!MESSAGE Workspace: E:\workspace\Open429\workspace
+
+!ENTRY org.eclipse.jface 2 0 2018-06-21 21:36:02.771
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-06-21 21:36:02.771
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@546b1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,터미널 명령어,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3e7c7c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2018-06-21 21:36:05.927
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2018-06-21 21:36:05.989
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-06-21 21:36:06.202
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\LG'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2018-06-21 21:49:16.361
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2018-06-21 21:51:13.358
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:42.151
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:42.156
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:42.162
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:42.164
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-21 21:55:42.238
+!MESSAGE MyFirstProject needs property 'com.atollic.truestudio.general.runtimelib.127684379' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-21 21:55:42.239
+!MESSAGE Failed to get device info (Debug) for project MyFirstProject
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-21 21:55:42.239
+!MESSAGE Failed to get device info (Debug) for project MyFirstProject
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-21 21:55:42.239
+!MESSAGE Failed to get device info (Debug) for project MyFirstProject
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-21 21:55:42.240
+!MESSAGE MyFirstProject needs property 'com.atollic.truestudio.general.runtimelib.652885070' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-21 21:55:42.241
+!MESSAGE Failed to get device info (Release) for project MyFirstProject
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-21 21:55:42.241
+!MESSAGE Failed to get device info (Release) for project MyFirstProject
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-21 21:55:42.241
+!MESSAGE Failed to get device info (Release) for project MyFirstProject
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:42.267
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:42.268
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:42.272
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:42.273
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:42.332
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:42.333
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:55.145
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:55.303
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:55.560
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-21 21:55:55.709
+!MESSAGE Failed to find device info
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-06-21 21:55:59.201
+!MESSAGE Indexed 'MyFirstProject' (39 sources, 47 headers) in 2.73 sec: 8,648 declarations; 23,554 references; 12 unresolved inclusions; 113 syntax errors; 8,367 unresolved names (21%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-06-21 22:15:03.070
+!MESSAGE Indexed '1. MyFirstProject' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2018-06-21 22:44:37.065
+!MESSAGE Unloading product manager
+!SESSION 2018-06-26 20:41:59.298 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2018-06-26 20:42:08.032
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2018-06-26 20:42:08.049
+!MESSAGE OS info: Windows 7, 6.1, x86
+
+!ENTRY TrueSTUDIO 1 0 2018-06-26 20:42:09.620
+!MESSAGE Target: STM32, Version: 9.0.1, Build date: 20180420-1214, Installation dir: /C:/Program Files (x86)/Atollic/TrueSTUDIO for STM32 9.0.1/ide/
+
+!ENTRY TrueSTUDIO 1 0 2018-06-26 20:42:09.620
+!MESSAGE Workspace: E:\workspace\Open429\workspace
+
+!ENTRY org.eclipse.jface 2 0 2018-06-26 20:42:11.468
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-06-26 20:42:11.468
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@106da3d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,터미널 명령어,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@38c3d5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2018-06-26 20:42:17.724
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2018-06-26 20:42:17.825
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-06-26 20:42:17.892
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\LG'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.atollic.hardwaredebug.launch 2 0 2018-06-26 20:48:07.333
+!MESSAGE Won't launch debug session since we failed to locate the binary.
+
+!ENTRY org.eclipse.ui 4 4 2018-06-26 21:07:53.801
+!MESSAGE 참조된 부분에 아직 없습니다: org.eclipse.ui.views.TaskList.
+
+!ENTRY com.atollic.truestudio.stackanalyzer 2 0 2018-06-26 21:52:28.734
+!MESSAGE Failed to open file
+
+!ENTRY com.atollic.truestudio.stackanalyzer 2 0 2018-06-26 21:52:29.849
+!MESSAGE Failed to open file
+
+!ENTRY com.atollic.truestudio.stackanalyzer 2 0 2018-06-26 21:52:40.873
+!MESSAGE Failed to open file
+
+!ENTRY com.atollic.truestudio.stackanalyzer 2 0 2018-06-26 21:52:41.699
+!MESSAGE Failed to open file
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2018-06-26 23:44:10.424
+!MESSAGE Unloading product manager
+!SESSION 2018-06-27 22:06:44.855 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2018-06-27 22:06:48.971
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2018-06-27 22:06:48.987
+!MESSAGE OS info: Windows 7, 6.1, x86
+
+!ENTRY TrueSTUDIO 1 0 2018-06-27 22:06:50.861
+!MESSAGE Target: STM32, Version: 9.0.1, Build date: 20180420-1214, Installation dir: /C:/Program Files (x86)/Atollic/TrueSTUDIO for STM32 9.0.1/ide/
+
+!ENTRY TrueSTUDIO 1 0 2018-06-27 22:06:50.861
+!MESSAGE Workspace: E:\workspace\Open429\workspace
+
+!ENTRY org.eclipse.jface 2 0 2018-06-27 22:06:52.658
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-06-27 22:06:52.658
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@780c0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,터미널 명령어,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@13bb287,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2018-06-27 22:06:58.404
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2018-06-27 22:06:58.482
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-06-27 22:06:58.576
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\LG'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2018-06-27 22:52:54.454
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2018-06-27 22:53:00.528
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:14.190
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:14.191
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:14.197
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:14.197
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-27 22:53:14.243
+!MESSAGE LED needs property 'com.atollic.truestudio.general.runtimelib.1427295512' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-27 22:53:14.243
+!MESSAGE Failed to get device info (Debug) for project LED
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-27 22:53:14.244
+!MESSAGE Failed to get device info (Debug) for project LED
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-27 22:53:14.244
+!MESSAGE Failed to get device info (Debug) for project LED
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-27 22:53:14.245
+!MESSAGE LED needs property 'com.atollic.truestudio.general.runtimelib.1125183680' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-27 22:53:14.245
+!MESSAGE Failed to get device info (Release) for project LED
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-27 22:53:14.245
+!MESSAGE Failed to get device info (Release) for project LED
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2018-06-27 22:53:14.245
+!MESSAGE Failed to get device info (Release) for project LED
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:14.268
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:14.269
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:14.273
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:14.273
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:14.338
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:14.339
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:16.777
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:16.939
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:27.134
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2018-06-27 22:53:27.309
+!MESSAGE Failed to find device info
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-06-27 22:53:30.494
+!MESSAGE Indexed 'LED' (37 sources, 46 headers) in 2.64 sec: 8,595 declarations; 23,287 references; 12 unresolved inclusions; 113 syntax errors; 8,291 unresolved names (21%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-06-27 22:56:26.747
+!MESSAGE Indexed '2. LED' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2018-06-27 23:25:18.583
+!MESSAGE Unloading product manager
+!SESSION 2018-06-30 12:19:28.275 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2018-06-30 12:19:31.129
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2018-06-30 12:19:31.145
+!MESSAGE OS info: Windows 7, 6.1, x86
+
+!ENTRY TrueSTUDIO 1 0 2018-06-30 12:19:32.752
+!MESSAGE Target: STM32, Version: 9.0.1, Build date: 20180420-1214, Installation dir: /C:/Program Files (x86)/Atollic/TrueSTUDIO for STM32 9.0.1/ide/
+
+!ENTRY TrueSTUDIO 1 0 2018-06-30 12:19:32.752
+!MESSAGE Workspace: E:\workspace\Open429\workspace
+
+!ENTRY org.eclipse.jface 2 0 2018-06-30 12:19:34.516
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-06-30 12:19:34.516
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@d666a2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,터미널 명령어,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@16906f4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2018-06-30 12:19:40.428
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2018-06-30 12:19:40.506
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-06-30 12:19:40.615
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\LG'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
